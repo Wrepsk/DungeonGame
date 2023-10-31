@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MazeGame</id>
+    <version>1.0.0</version>
+    <authors>MazeGame</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\vscode\MazeGame\MazeGame\bin\Debug\net6.0\MazeGame.runtimeconfig.json" target="lib\net6.0\MazeGame.runtimeconfig.json" />
+    <file src="D:\vscode\MazeGame\MazeGame\bin\Debug\net6.0\MazeGame.dll" target="lib\net6.0\MazeGame.dll" />
+  </files>
+</package>
